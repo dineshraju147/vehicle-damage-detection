@@ -94,7 +94,7 @@ You can now drag and drop an image into the interface to receive real-time damag
 ### 📸 Screenshots
 
 #### 📂 Upload Image UI (Streamlit)
-![Alt Text](app_screenshot.jpg)
+![Alt Text](Streamlit_app/app_screenshot.jpg)
 
 ### 🌐 Live Demo 
 > DOI: [Access the Steamlit application here](https://vehicle-damage-detection-dinesh-kumar-raju-kattunga.streamlit.app/)  
