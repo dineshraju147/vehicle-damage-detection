@@ -4,4 +4,4 @@ Pillow>=10.1.0        # Fix for Python 3.13 compatibility
 torch==2.5.1        # Compatible with Python 3.13
 torchvision==0.22.1
  # Compatible with Python 3.13
-rich==14.0.0
+
