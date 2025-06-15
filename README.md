@@ -97,7 +97,7 @@ You can now drag and drop an image into the interface to receive real-time damag
 ![Alt Text](app_screenshot.jpg)
 
 ### 🌐 Live Demo 
-> DOI: [10.1016/j.heliyon.2024.e34016](https://doi.org/10.1016/j.heliyon.2024.e34016)  
+> DOI: [Access the Steamlit application here](https://vehicle-damage-detection-dinesh-kumar-raju-kattunga.streamlit.app/)  
 
 ### 🗂️ Folder Structure
 
